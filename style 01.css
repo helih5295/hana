@@ -1,0 +1,151 @@
+ 
+  body {
+    width: 100%;
+    padding: auto;
+    padding-top: 2%;
+    background-color: rgb(230, 220, 220);
+  }
+  p {
+    color: black;
+    text-align: justify;
+  }
+  
+  @media (min-width: 500px) {
+    #mainheader {
+      background-image: url(222.jpg);
+      height: fit-content;
+      background-size: cover;
+      text-align: center;
+      padding: 10%;
+      background-repeat: no-repeat;
+      width: auto;
+    }
+    #HOME {
+      font-family: addis;
+      color: white;
+      font-size: 50pt;
+      width: auto;
+      text-align: center;
+    }
+  }
+  
+  nav {
+    text-decoration: none;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    font-size: 30pt;
+    color: white;
+  }
+  #pages ul {
+    list-style-type: none;
+    word-spacing: 10pt;
+  }
+  #pages li {
+    display: inline;
+  }
+  
+  .button {
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+    font-size: 15pt;
+    background-size: 100%;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 1%;
+  }
+  .button:hover {
+    color: red;
+    background-color: black;
+  }
+  
+  a {
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+    font-size: 15pt;
+    background-size: 100%;
+    background-color: white;
+    padding: 1%;
+  }
+  .intro {
+    color: black;
+    background-color: rgb(255, 254, 254, 0.3);
+    padding: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+  
+  #story00 {
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    font-size: 20pt;
+  }
+  
+  #story1 {
+    color: black;
+    background-color: rgba(89, 136, 207,0.3);
+    color: white;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    text-decoration: none;
+    color: black;
+    text-transform: capitalize;
+    padding: 5%;
+    padding-top: 0%;
+  }
+  
+  #story01 {
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    font-size: 20pt;
+  }
+  
+  #mainbar {
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    background-color: brown;
+    padding: 5%;
+  }
+  #sidebar {
+    width: 50%;
+    float: right;
+    box-sizing: border-box;
+    background-color: brown;
+    padding: 5%;
+  }
+  
+  #story2 {
+    color: black;
+    background-color: rgba(89, 136, 207,0.3);
+    color: white;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    text-decoration: none;
+    color: black;
+    text-transform: capitalize;
+    padding: 5%;
+    padding-top: 0%;
+  }
+  
+  #story02 {
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    font-size: 20pt;
+  }
+  
+  #story3 {
+    color: black;
+    background-color: rgba(89, 136, 207,0.3);
+    color: white;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    text-decoration: none;
+    color: black;
+    text-transform: capitalize;
+    padding: 5%;
+    padding-top: 0%;
+  }
+  
+  #story03 {
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    font-size: 20pt;
+  }
+  
+  
+ 
